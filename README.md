@@ -1,5 +1,4 @@
 <div align="center">
-    <img src="./public/logo mio.png" width="220" height="150" style="margin-bottom: 25px; border-radius: 50%;" />
     <h1>Hello! I'm <strong>Brayan Andrés Díaz Pacheco</strong> 🫡👋</h1>
     <p>👨‍💻😀 <strong style="font-size:15px;">Full-Stack Developer | Problem-Solver | Idea Catalyst</strong></p> 
 </div>
