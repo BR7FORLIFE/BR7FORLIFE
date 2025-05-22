@@ -38,7 +38,7 @@ My daily drive is to **learn, grow, and write purposeful code** that makes an im
 
 ### 🛠️ Tech Stack & Tools
 
-🌐 **Frontend:** Angular, HTML5, CSS3, TailwindCSS  
+🌐 **Frontend:** Angular, HTML5, CSS3, TailwindCSS, Astro 5.0  
 ⚙️ **Backend:** Spring Framework, Node.js, Express, Python, FastAPI  
 🧠 **AI & Data Science:** Python, Pandas, scikit-learn, basic TensorFlow  
 🗃️ **Databases:** MySQL, MongoDB  
