@@ -1,58 +1,75 @@
 <div align="center">
-    <img src="./public/logo mio.png" width="400" height="300" style="margin-bottom: 35px; border-radius: 12px" />
-    <h1>¡Hola! Soy <strong>Brayan Andrés Díaz Pacheco</strong> 🫡👋</h1>
-    <p>👨‍💻😀<strong style="font-size:15px;">Desarrollador FullStack y propulsor de ídeas de mejora</strong></p> 
+    <img src="./public/logo mio.png" width="220" height="150" style="margin-bottom: 25px; border-radius: 50%;" />
+    <h1>Hello! I'm <strong>Brayan Andrés Díaz Pacheco</strong> 🫡👋</h1>
+    <p>👨‍💻😀 <strong style="font-size:15px;">Full-Stack Developer | Problem-Solver | Idea Catalyst</strong></p> 
 </div>
 
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BR7FORLIFE&theme=dark&hide_border=true&border_radius=4.8&card_width=600&card_height=300" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=BR7FORLIFE&theme=dark&hide_border=true&border_radius=4.8&card_width=600&card_height=300" alt="GitHub Streak" />
+    </a>
 </div>
 
+---
+
+### 💡 About Me
+
+I'm a **curious, analytical, and solution-driven** developer with a passion for solving real-world problems through code.  
+I enjoy diving deep into the **"why" behind every decision**, aiming to craft smart, scalable, and meaningful solutions.
+
+I dislike leaving tasks unfinished and always seek to deliver true value.  
+My daily drive is to **learn, grow, and write purposeful code** that makes an impact.
 
 ---
 
-### 💡 Sobre mí
+### 😎 Who Am I?
 
-Soy una persona **curiosa, analítica y comprometida** con la calidad del código y la solución de problemas reales.  
-Me motiva entender el **"por qué" detrás de cada línea de código**, explorar alternativas y construir soluciones sólidas, escalables y con propósito.
-
-No me gusta dejar tareas a medias; busco siempre entregar valor, comprender el fondo del problema y tomar decisiones técnicas bien fundamentadas.  
-Mi impulso diario es **aprender, mejorar y evolucionar como desarrollador**.
+🎓 **Computer Engineering Student** at Fundación Universitaria Tecnológico Comfenalco  
+🚀 Actively looking for **my first big opportunity** to contribute, learn, and level up professionally  
+💡 Passionate about building, breaking down complex problems, and improving systems through tech
 
 ---
 
-### 😎 ¿Quién soy?
+### 🚀 Currently Working On
 
-🎓 **Estudiante** de Ingeniería en la Fundación Universitaria Tecnológico Comfenalco  
-🔍 En búsqueda de **mi primera gran oportunidad profesional** para aplicar y expandir mis conocimientos  
-🧠 Apasionado por la programación, la resolución de problemas y la mejora continua
-
----
-
-### 🚀 Actualmente...
-
-💼 **Desarrollando:** `TraidingAnalizerIA`, una plataforma para optimizar operaciones en el mercado de valores mediante el uso de inteligencia artificial.  
-📈 **Objetivo:** Predecir con mayor precisión los movimientos del mercado y apoyar a traders con herramientas de análisis más inteligentes gracias al potencial de la Inteligencia Artificial.
+💼 **Project:** `TraidingAnalizerIA` – a smart platform that empowers traders by enhancing market predictions through Artificial Intelligence.  
+📈 **Goal:** To deliver more accurate financial forecasts and intelligent tools for decision-making in the trading world.
 
 ---
 
-### 🛠️ Stack y tecnologías
+### 🛠️ Tech Stack & Tools
 
 🌐 **Frontend:** Angular, HTML5, CSS3, TailwindCSS  
-⚙️ **Backend:** SpringFramework, Node.js, Express, Python, FastAPI  
-🧠 **IA y Ciencia de datos:** Python, Pandas, scikit-learn, TensorFlow (básico)  
-🗃️ **Bases de datos:** MySQL, MongoDB  
-🐳 **DevOps / Cloud:** Docker, Git, AWS (en aprendizaje)  
-🧪 **Otros:** TypeScript, Git, GitHub, Postman, Linux, Bash
+⚙️ **Backend:** Spring Framework, Node.js, Express, Python, FastAPI  
+🧠 **AI & Data Science:** Python, Pandas, scikit-learn, basic TensorFlow  
+🗃️ **Databases:** MySQL, MongoDB  
+🐳 **DevOps / Cloud:** Docker, Git, AWS (learning phase)  
+🧪 **Others:** TypeScript, GitHub, Postman, Linux, Bash scripting
 
 ---
 
-### 📚 Actualmente aprendiendo
+### 📚 Currently Exploring
 
-- ⚙️ **TypeScript**: para llevar JavaScript a un nuevo nivel de robustez y tipado
-- 📦 **Docker**: para desarrollar en entornos aislados, reproducibles y escalables
-- ☁️ **AWS**: para implementar servicios en la nube y desplegar soluciones reales
+- ⚙️ **TypeScript** – to bring stronger typing and structure to JavaScript projects  
+- 📦 **Docker** – for containerized, isolated, and consistent development environments  
+- ☁️ **AWS** – to deploy and manage scalable, cloud-based applications
 
 ---
 
+### 📫 Let's Connect!
+
+You can reach out to me or explore my work:
+
+- 📧 Email: diazpachecobrayan@gmail.com
+- 🌐 Portfolio: In creation
+- 🐙 GitHub: [github.com/BR7FORLIFE](https://github.com/BR7FORLIFE)
+- 💼 LinkedIn: [Linkedin](https://www.linkedin.com/in/brayan-diaz-pacheco)
+
+---
+
+### ✨ Bonus Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BR7FORLIFE&layout=compact&theme=dark&hide_border=true)
+
+---
 
